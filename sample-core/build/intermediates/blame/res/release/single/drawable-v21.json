@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/asrulsibaoel/myproject/android/LectureMe/sample-core/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/asrulsibaoel/.android/build-cache/c4283b10dbbaeb8ba36e823fe4699ea4e8af706c/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/asrulsibaoel/myproject/android/LectureMe/sample-core/build/intermediates/res/merged/release/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/asrulsibaoel/.android/build-cache/e76de60195c951d89840e01c480e52568b4c8ac6/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/asrulsibaoel/myproject/android/LectureMe/sample-core/build/intermediates/res/merged/release/drawable-v21/avd_hide_password.xml",
+        "source": "/home/asrulsibaoel/.android/build-cache/e76de60195c951d89840e01c480e52568b4c8ac6/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/asrulsibaoel/myproject/android/LectureMe/sample-core/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/asrulsibaoel/.android/build-cache/c4283b10dbbaeb8ba36e823fe4699ea4e8af706c/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/asrulsibaoel/myproject/android/LectureMe/sample-core/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/home/asrulsibaoel/.android/build-cache/c4283b10dbbaeb8ba36e823fe4699ea4e8af706c/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/asrulsibaoel/myproject/android/LectureMe/sample-core/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/asrulsibaoel/.android/build-cache/c4283b10dbbaeb8ba36e823fe4699ea4e8af706c/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/asrulsibaoel/myproject/android/LectureMe/sample-core/build/intermediates/res/merged/release/drawable-v21/design_password_eye.xml",
+        "source": "/home/asrulsibaoel/.android/build-cache/e76de60195c951d89840e01c480e52568b4c8ac6/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/asrulsibaoel/myproject/android/LectureMe/sample-core/build/intermediates/res/merged/release/drawable-v21/avd_show_password.xml",
+        "source": "/home/asrulsibaoel/.android/build-cache/e76de60195c951d89840e01c480e52568b4c8ac6/output/res/drawable-v21/avd_show_password.xml"
+    }
+]

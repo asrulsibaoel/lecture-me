@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/asrulsibaoel/myproject/android/LectureMe/sample-core/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/asrulsibaoel/.android/build-cache/c4283b10dbbaeb8ba36e823fe4699ea4e8af706c/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/asrulsibaoel/myproject/android/LectureMe/sample-core/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/asrulsibaoel/.android/build-cache/c4283b10dbbaeb8ba36e823fe4699ea4e8af706c/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/asrulsibaoel/myproject/android/LectureMe/sample-core/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/asrulsibaoel/.android/build-cache/c4283b10dbbaeb8ba36e823fe4699ea4e8af706c/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/asrulsibaoel/myproject/android/LectureMe/sample-core/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/asrulsibaoel/.android/build-cache/c4283b10dbbaeb8ba36e823fe4699ea4e8af706c/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
