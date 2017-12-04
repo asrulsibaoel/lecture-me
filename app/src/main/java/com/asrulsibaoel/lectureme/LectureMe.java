@@ -8,6 +8,8 @@ import com.asrulsibaoel.lectureme.injection.AppModule;
 import com.asrulsibaoel.lectureme.injection.DaggerAppComponent;
 import com.asrulsibaoel.lectureme.util.QBResRequestExecutor;
 import com.crashlytics.android.Crashlytics;
+import com.pixplicity.easyprefs.library.Prefs;
+
 import io.fabric.sdk.android.Fabric;
 
 public final class LectureMe extends Application {
@@ -27,6 +29,7 @@ public final class LectureMe extends Application {
                 .appModule(new AppModule(this))
                 .build();
         Fabric.with(this, new Crashlytics());
+
     }
 
     @NonNull

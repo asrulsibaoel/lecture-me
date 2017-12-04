@@ -34,3 +34,5 @@ build
 *.ipr
 *~
 *.swp
+sample-core/build
+*/sample-core/

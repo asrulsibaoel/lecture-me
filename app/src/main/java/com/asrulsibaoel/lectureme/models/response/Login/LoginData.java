@@ -1,11 +1,11 @@
 package com.asrulsibaoel.lectureme.models.response.Login;
 
+import com.asrulsibaoel.lectureme.models.tables.User;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
 import javax.annotation.Generated;
 
-import in.tawari.app.tawarinapp.models.tables.User;
 
 
 @Generated("org.jsonschema2pojo")
